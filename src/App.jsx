@@ -6,7 +6,11 @@ const image = "https://cover.cdnlibs.org/uploads/anime/25140/cover/db4b7db6-3588
 const object = {
   url: "https://animelib.org/ru/characters/97140--jin-woo-sung?seed=508d610631d838ab097262045f2291ff"
 }
+
+
 const colors = ["Червоний", "Синій", "Зелений"]
+
+
 
 
 function App() {
@@ -26,5 +30,8 @@ function App() {
     </>
   )
 }
+
+
+
 
 export default App
